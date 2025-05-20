@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Mobile Apps**
 
-- 📫 How to reach me **dogukan.dogaan@gmail.com**
+- 📫 How to reach me **dogan.dogukann26@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
