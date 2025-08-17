@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Doğukan</h1>
-<h3 align="center">A passionate Flutter developer</h3>
+<h3 align="center">A passionate Mobile App Developer</h3>
 
 - 🔭 I’m currently working on [Filmio](https://github.com/DgknDogan/Filmio)
 
