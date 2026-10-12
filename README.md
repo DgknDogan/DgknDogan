@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Doğukan</h1>
-<h3 align="center">A passionate Mobile App Developer</h3>
+<h3 align="center">A Mobile App Developer</h3>
 
-- 🔭 I’m currently working on [Filmio](https://github.com/DgknDogan/Filmio)
-
-- 🌱 I’m currently learning **Clean Architecture**
+- 🔭 My first app is on AppStore [Filmio](https://apps.apple.com/tr/app/filmio/id6804681886?l=tr)
 
 - 👨‍💻 All of my projects are available at [https://github.com/DgknDogan](https://github.com/DgknDogan)
 
